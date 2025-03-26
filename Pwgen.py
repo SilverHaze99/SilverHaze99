@@ -1,15 +1,15 @@
 import random
 import string
 #just for examples. Dont use generated passwords for your account
-def passwort_generieren(laenge):
-    zeichen = string.ascii_letters + string.digits + string.punctuation
-    return ''.join(random.choice(zeichen) for _ in range(laenge))
+def password_generation(lenght):
+    character = string.ascii_letters + string.digits + string.punctuation
+    return ''.join(random.choice(character) for _ in range(lenght))
 
 def main():
     print("Password-Generator")
     try:
-        laenge = int(input("Enter how much characters you need: "))
-        print("Your Password:", passwort_generieren(laenge))
+        lenght = int(input("Enter how much characters you need: "))
+        print("Your Password:", password_generation(lenght))
     except ValueError:
         print("only numbers!")
 
