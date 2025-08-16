@@ -1,4 +1,4 @@
-# Silver (@SilverHaze99) - AI Enthusiast & OSINT Explorer
+# Silver (@SilverHaze99) - AI Enthusiast & OSINT Explorer   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11JMLRG)
 
 Welcome to my GitHub! I'm **Silver**, a 25-year-old tech enthusiast from **Austria**, diving deep into **Local AI**, **OSINT**, and open-source development. My mission? To harness technology for innovation, learning, and the occasional cybersecurity reality check.
 
