@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm **Silver**, a 25-year-old tech enthusiast from **Austr
 
 ---
 
-## 🚀 About Me
+## About Me
 - **Who I Am**: A curious, self-taught coder and investigator passionate about uncovering insights and building intelligent systems.
 - **Pronouns**: He/Him  
 - **Location**: 🇦🇹 Austria
@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm **Silver**, a 25-year-old tech enthusiast from **Austr
 
 ---
 
-## 🔍 What I'm Working On
+## What I'm Working On
 - **Local AI**: Exploring the potential of running AI models locally for privacy, efficiency, and maximum chaos potential
 - **OSINT**: Mastering the art of gathering and analyzing publicly available data to uncover hidden patterns (and occasionally stumbling into international phishing operations)
 - **Cybersecurity Research**: Hunting down scammers, reporting credential leaks, and learning why big tech companies have interesting priorities
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm **Silver**, a 25-year-old tech enthusiast from **Austr
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 | **Area**            | **Technologies & Skills**                        |
 |--------------------|--------------------------------------------------|
 | **Programming**    | Python, Bash, PowerShell, Git                   |
@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm **Silver**, a 25-year-old tech enthusiast from **Austr
 
 ---
 
-## 🌱 What's Next?
+## What's Next?
 - **Learning**: Diving deeper into advanced Python libraries and exploring **Rust** for performance-critical projects
 - **Projects**: Developing beginner-friendly OSINT tools and AI-powered security utilities
 - **Community**: Seeking **collaborations** with developers, researchers, and cybersecurity enthusiasts
@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm **Silver**, a 25-year-old tech enthusiast from **Austr
 
 ---
 
-## 🎯 Recent Adventures
+## Recent Adventures
 - Successfully mapped international phishing infrastructure across multiple countries
 - Discovered the joy of AI model collaboration (some models are surprisingly bloodthirsty)
 - Learned valuable lessons about corporate abuse reporting procedures
@@ -57,46 +57,46 @@ Welcome to my GitHub! I'm **Silver**, a 25-year-old tech enthusiast from **Austr
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 I'm excited to meet like-minded folks, whether you're a beginner or a seasoned pro. Got a project idea, want to collaborate, or need help tracking down cybercriminals? Reach out!
 
-- 📫 **GitHub**: You're here! Check my repos below
-- 🕵️ **Other Platforms**: Keeping my digital footprint strategically minimal
+-  **GitHub**: You're here! Check my repos below
+-  **Other Platforms**: Keeping my digital footprint strategically minimal... or maybe not?^^ 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Silver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilverHaze99&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverHaze99&layout=compact&theme=radical)
 
 ---
 
-## 💡 Featured Projects
+## Featured Projects
 *Coming Soon!*
-- **AI-Powered OSINT Toolkit**: Multi-model approach to threat intelligence gathering
+- **AI-Powered OSINT Toolkit**: Multi-model approach to intelligence gathering
 - **Phishing Infrastructure Mapper**: Because someone has to do it properly
 - **Corporate Abuse Reporting Automation**: For when you need to contact 47 different agencies
 
 ---
 
-## 📜 Code of Conduct
+## Code of Conduct
 I foster a **welcoming**, **inclusive** environment. All interactions should be respectful, constructive, and collaborative. 
 
 **However**: If you're running phishing operations, credential theft, or other cybercrime activities, expect to be thoroughly documented and reported through proper channels. Let's build something amazing together – legally and ethically! 🚀
 
 ---
 
-## 🎖️ Community Contributions
-- Active in cybersecurity threat reporting
+## Community Contributions
+- Active in cybersecurity threat reporting (not professional)
 - Collaborating with AI research community
 - Contributing to open-source security tools
-- Advocating for responsible AI development
+- Advocating for responsible AI development and AI Ethics
 
 ---
 
-*Last updated: August 2025*
+*Last updated: September 2025*
 
-Thanks for stopping by! Let's explore the future of tech together – responsibly and with just the right amount of controlled chaos. 🚀
+Thanks for stopping by! Let's explore the future of tech together – responsibly and with just the right amount of controlled chaos. 
 
 ---
 
