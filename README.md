@@ -82,7 +82,7 @@ I'm excited to meet like-minded folks, whether you're a beginner or a seasoned p
 ## Code of Conduct
 I foster a **welcoming**, **inclusive** environment. All interactions should be respectful, constructive, and collaborative. 
 
-**However**: If you're running phishing operations, credential theft, or other cybercrime activities, expect to be thoroughly documented and reported through proper channels. Let's build something amazing together – legally and ethically! 🚀
+**However**: If you're running phishing operations, credential theft, or other cybercrime activities, expect to be thoroughly documented and reported through proper channels. Let's build something amazing together – legally and ethically! 
 
 ---
 
