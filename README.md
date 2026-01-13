@@ -66,7 +66,7 @@ I'm excited to meet like-minded folks, whether you're a beginner or a seasoned p
 ---
 
 ## GitHub Stats
-![Silver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilverHaze99&show_icons=true&theme=radical)
+![Silver's GitHub Stats](stats-silver.vercel.app/api?username=SilverHaze99&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverHaze99&layout=compact&theme=radical)
 
 ---
