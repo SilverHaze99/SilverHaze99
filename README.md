@@ -1,6 +1,6 @@
 # Silver (@SilverHaze99) - AI Enthusiast & OSINT Explorer   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11JMLRG)
 
-Welcome to my GitHub! I'm **Silver**, a 25-year-old tech enthusiast from **Austria**, diving deep into **Local AI**, **OSINT**, and open-source development. My mission? To harness technology for innovation, learning, and the occasional cybersecurity reality check.
+Welcome to my GitHub! I'm **Silver**, a 26-year-old tech enthusiast from **Austria**, diving deep into **Local AI**, **OSINT**, and open-source development. My mission? To harness technology for innovation, learning, and the occasional cybersecurity reality check.
 
 ---
 
@@ -66,8 +66,8 @@ I'm excited to meet like-minded folks, whether you're a beginner or a seasoned p
 ---
 
 ## GitHub Stats
-![Silver's GitHub Stats](https://stats-fvc7co0jn-infosecfors-projects.vercel.app/api?username=SilverHaze99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverHaze99&layout=compact&theme=radical)
+![Silver's GitHub Stats](https://stats-silver.vercel.app/api?username=SilverHaze99&show_icons=true&theme=radical)
+![Top Languages](https://stats-silver.vercel.app/api/top-langs/?username=SilverHaze99&layout=compact&theme=radical)
 
 ---
 
